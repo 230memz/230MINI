@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 王*文的网站
 
 You can use the [editor on GitHub](https://github.com/230memz/230MINI/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
